@@ -1,0 +1,1 @@
+destino = room0;

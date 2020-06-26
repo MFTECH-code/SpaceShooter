@@ -1,0 +1,3 @@
+if (position_meeting(mouse_x, mouse_y, self)) { // Verificando se o mouse esta em cima do botão...
+	image_blend = c_yellow;
+}
